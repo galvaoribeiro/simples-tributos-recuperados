@@ -8,7 +8,7 @@ const HeroSection = () => {
         <div className="flex flex-col lg:flex-row items-center justify-between gap-10">
           <div className="lg:w-1/2 space-y-6 opacity-0 animate-fade-in">
             <h1 className="text-4xl md:text-5xl font-bold font-montserrat text-auditor-deepBlue leading-tight">
-              Recuperação Tributária Inteligente para sua Empresa
+              Recuperação Tributária Inteligente para Empresas do Simples Nacional
             </h1>
             
             <p className="text-lg font-inter text-gray-700 max-w-lg">
