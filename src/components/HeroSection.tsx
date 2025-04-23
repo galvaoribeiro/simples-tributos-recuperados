@@ -8,11 +8,11 @@ const HeroSection = () => {
         <div className="flex flex-col lg:flex-row items-center justify-between gap-10">
           <div className="lg:w-1/2 space-y-6 opacity-0 animate-fade-in">
             <h1 className="text-4xl md:text-5xl font-bold font-montserrat text-auditor-deepBlue leading-tight">
-              Recuperação Tributária Inteligente para Empresas do Simples Nacional
+            Diga Adeus ao Processo Manual na Recuperação Tributária para o Simples Nacional
             </h1>
             
             <p className="text-lg font-inter text-gray-700 max-w-lg">
-              Especialistas em recuperação tributária com tecnologia avançada. Recupere créditos tributários e economize até 30% em impostos de forma segura e automatizada.
+            Automatize a análise de itens, identifique produtos monofásicos e gere a segregação mensal de PIS, COFINS e ICMS ST — economize tempo, reduza erros e ofereça um serviço de alto valor aos seus clientes.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
